@@ -2,8 +2,7 @@
 # Polio, Infant Deaths, and Life Expectancy Analysis
 
 
-## Live Version
-You can view the interactive HTML version of this project here:  
+## You can view the interactive HTML version of this project here:  
 https://kvphilpott.github.io/Polio-Life-Expectancy-Analysis
 
 **Course:** STAT 3240   
