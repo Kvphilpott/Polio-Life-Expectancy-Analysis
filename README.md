@@ -1,13 +1,15 @@
 
 # Polio, Infant Deaths, and Life Expectancy Analysis
 
+
+## Live Version
+You can view the interactive HTML version of this project here:  
+https://kvphilpott.github.io/Polio-Life-Expectancy-Analysis
+
 **Course:** STAT 3240   
 
 ## Project Overview
 This project investigates the relationship between polio immunization coverage, infant deaths, and life expectancy across continents in 2015.
-
-## File
-- [`STAT3240_Group5_Polio_LifeExpectancy.Rmd`](STAT3240_Group5_Polio_LifeExpectancy.Rmd)
 
 ## Key Skills Demonstrated
 - R programming / RMarkdown
